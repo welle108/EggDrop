@@ -6,3 +6,6 @@ To run program, compile with g++ and run with command line arguments for number 
 For example, to calculate for n = 10 floors and k = 4 eggs, you would run the command:
 
     eggdrop.exe 10 4
+    
+#### Sources
+* https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
